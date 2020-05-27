@@ -1,4 +1,4 @@
-# house-prices
+# house-prices prediction(Ames)
 *Ames 도시, Iowa 주 주택가격예상 데이터
 
 종속변수 y= 80-75 (pure house price)
